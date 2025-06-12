@@ -81,10 +81,10 @@ function tooglePlayer() {
 
 function checkGame() {
     if(checkWinnerFor('X')) {
-        warning = 'O jogador "X" venceu!';
+        warning = 'Jogador X venceu!';
         playing = false;
     }else if(checkWinnerFor('O')) {
-        warning = 'O jogador "O" venceu!';
+        warning = 'Jogador O venceu!';
         playing = false;
     }else if(isFull()) {
         warning = 'O jogo empatou!';
@@ -129,21 +129,3 @@ function isFull() {
     }
     return true;
 }
- 
-    let pos = [
-        'a1,a2,a3',
-        'b1,b2,b3',
-        'c1,c2,c3',
-
-        'a1,b1,c1',
-        'a2,b2,c2',
-        'a3,b3,c3',
-
-        'a1,b2,c3',
-        'a3,b2,c1'
-
-     
-    ];
-
-
-    console.log(pos[1].split(','));
