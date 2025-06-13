@@ -1,5 +1,5 @@
 ![image](https://github.com/user-attachments/assets/da25ff60-dd05-4532-89da-2ede6f4d4632)
-ogo da Velha Moderno e Interativo
+Jogo da Velha Moderno e Interativo
 
 Este projeto é uma implementação clássica e elegante do Jogo da Velha, desenvolvido com as tecnologias web fundamentais: HTML, CSS e JavaScript. O objetivo foi criar uma experiência de usuário limpa, intuitiva e agradável, com um design moderno e responsivo que se adapta bem a diferentes tamanhos de tela.
 
